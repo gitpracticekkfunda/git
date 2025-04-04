@@ -8,6 +8,6 @@ spec:
   deployment startetgy: 
     rolling update
 
-  max surge: 23
+  max surge: 30
   max Unavailability: 25 
   
